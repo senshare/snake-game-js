@@ -1,7 +1,7 @@
-#Deskripsi Game "Snake":
+# Deskripsi Game " Snake ":
 Snake adalah permainan klasik yang menantang Anda untuk mengendalikan seekor ular yang bergerak di dalam area permainan. Tujuan utama dari permainan ini adalah untuk membuat ular semakin panjang dengan cara memakan buah-buahan yang muncul secara acak di layar. Namun, Anda harus berhati-hati karena ular tidak boleh menabrak dinding atau tubuhnya sendiri, yang dapat menyebabkan akhir permainan.
 
-#Cara Bermain:
+# Cara Bermain:
 
 1. Kendalikan Ular: Gunakan tombol panah pada keyboard untuk mengubah arah pergerakan ular (atas, bawah, kiri, kanan).
 
